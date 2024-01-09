@@ -7,12 +7,12 @@ Check how modern Stage 3 decorators are supported in a specific runtime.
 npm run test:node
 ```
 
-## Deno
+## [Deno](https://deno.land) ([Related issue](https://github.com/denoland/deno/issues/19160))
 ```shell
 npm run test:deno
 ```
 
-## Bun
+## [Bun](https://bun.sh/) ([Related issue](https://github.com/oven-sh/bun/issues/4122))
 ```shell
 npm run test:bun
 ```
